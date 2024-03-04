@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder
+name: Helloworld-builder
 
 on:
   repository_dispatch:
